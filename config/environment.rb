@@ -14,3 +14,5 @@ ActionMailer::Base.smtp_settings = {
 }
 ActionMailer::Base.delivery_method = :smtp
 
+# comment
+
